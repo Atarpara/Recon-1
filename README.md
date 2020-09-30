@@ -9,3 +9,4 @@ https://github.com/projectdiscovery/nuclei.git
 need more than this
 git clone
 git bash
+git auth
